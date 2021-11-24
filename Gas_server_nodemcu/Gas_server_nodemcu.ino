@@ -1,7 +1,7 @@
 #define WRITE_API_KEY "38MIGEQ86KMS6B05"
 #define READ_API_KEY "6BPIG319LPXOSOSG"
-#define WIFI_SSID "Shriyansh's Galaxy A32"
-#define WIFI_PASS "bnfq7948"
+#define WIFI_SSID "#######"
+#define WIFI_PASS "$$$$$$$"
 #define CHANNEL_ID 1549747
 #include "ThingSpeak.h"
 #include <ESP8266WiFi.h>
