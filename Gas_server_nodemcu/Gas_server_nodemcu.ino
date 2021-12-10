@@ -1,8 +1,8 @@
-#define WRITE_API_KEY "38MIGEQ86KMS6B05"
-#define READ_API_KEY "6BPIG319LPXOSOSG"
+#define WRITE_API_KEY "ThinkspeakWriteApi"
+#define READ_API_KEY "ThinkspeakReadApi"
 #define WIFI_SSID "#######"
 #define WIFI_PASS "$$$$$$$"
-#define CHANNEL_ID 1549747
+#define CHANNEL_ID ThinkspeakChannelId
 #include "ThingSpeak.h"
 #include <ESP8266WiFi.h>
 
